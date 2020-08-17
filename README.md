@@ -1,4 +1,4 @@
 # Flipr
 Hackathon
 
-Extract the .rar file and run it using Node js command prompt.
+As the .rar file size is exceeding the max. size(25MB), I've uploaded Screenshots of my Web page.
